@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+    color:rgb(62, 180, 137);
+    text-align:center;
+    width:400;
+    border:rgb(62, 180, 137);
+}
+video{
+    border:green 2px solid;
+}
+audio{
+    border:green 2px solid;
+}
+iframe{
+    border:green 2px solid;
+}
